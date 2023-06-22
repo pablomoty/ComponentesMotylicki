@@ -1,0 +1,8 @@
+aside {
+    background-color: darkcyan;
+    height: calc(100vh - 60px );
+    color: white;
+    font-size: 40px;
+    padding: 10px
+    
+}

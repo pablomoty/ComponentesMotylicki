@@ -1,0 +1,7 @@
+main {
+    background-color: darkslateblue;
+    height: calc(100vh - 60px );
+    color: beige;
+    padding: 10px;
+    
+}
